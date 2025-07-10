@@ -1,0 +1,16 @@
+venv
+.env
+node_modules
+.DS_Store
+dist
+coverage
+*.egg-info
+*.log
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.swp
+.qodo/
